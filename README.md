@@ -41,9 +41,6 @@ $ git checkout hokudai_taro
 ```
 
 コードを書いたら自身のブランチの remote repository に push してください。  
-- ~Pythonで書いた場合、ファイル名はすべて二桁の数字にしてください（例: knock01.py）~
-- ~google colab等で書いた場合、ファイル名は各Chapterの数字にしてください。（例: chapter01.ipynb）~  
-
 - Pythonで書いた場合、ファイル名はすべて二桁の数字 & 自分の名前を入れてください（例: knock01_taro.py）
 - google colab等で書いた場合、ファイル名は各Chapterの数字 & 自分の名前を入れてください。（例: chapter01_taro.ipynb）
 ```
